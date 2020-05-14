@@ -9,7 +9,7 @@ but had an outdated fork so I simply redid the changes on a new fork. I also mod
  sampleRate\[val0, val1, ..., valn]
 - It is badly formatted, but it works.
 
-##How to use it 
+## How to use it 
 
 0. Install nRF connect 
 
